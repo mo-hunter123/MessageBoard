@@ -3,15 +3,15 @@
 <h2> Technologies used </h2>
 
 <strong>
-  -->Server side 
-        body-parser
-        cors
-        express
-        joi
-        monk
-        morgan
+  -->Server side <br />
+        body-parser<br />
+        cors<br />
+        express<br />
+        joi<br />
+        monk<br />
+        morgan<br /><br />
 
-  -->Client Side
-        core-js
-        Vue.js
+  -->Client Side<br />
+        core-js<br />
+        Vue.js<br />
 </strong>
